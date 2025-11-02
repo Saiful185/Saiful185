@@ -12,7 +12,7 @@
 
 🌱 &nbsp; I'm also creating a free YouTube course on **[Machine Learning & Deep Learning in Bangla](https://youtube.com/playlist?list=PLPfbpzAKHDr2ZFP39PUTOhfy5bgaOGPGi&si=Y4dGrDOW0AZ6kUqq)**.
 
-📫 &nbsp; How to reach me: **saifulbariiftu@gmail.com**
+📫 &nbsp; How to reach me: **saifulbariiftu@gmail.com** or **saiful.bari@bracu.ac.bd**
 
 ---
 
