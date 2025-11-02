@@ -6,7 +6,7 @@
   Senior Lecturer, School of Data & Sciences, BRAC University
 </h2>
 
-- - -
+---
 
 🔭 &nbsp; I’m currently working on **Multi-Modal Deep Learning, Biomedical Imaging, Signal & Image Processing, Bioinformatics, and Computational Social Science.**
 
