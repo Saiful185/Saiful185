@@ -1,18 +1,18 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saiful185&label=Profile%20views&color=0e75b6&style=flat" alt="saiful185" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Saiful Bari Siddiqui</h1>
 
 ---
 
-<p align="center">
+<h2 align="center">
   Machine Learning Researcher
   <br>
   Senior Lecturer, School of Data & Sciences, BRAC University
+</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saiful185&label=Profile%20views&color=0e75b6&style=flat" alt="saiful185" />
 </p>
 
-- - -
+---
 
 🔭 &nbsp; I’m currently working on **Multi-Modal Deep Learning, Biomedical Imaging, Signal & Image Processing, and Computational Social Science.**
 
