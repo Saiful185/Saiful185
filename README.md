@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saiful Bari Siddiqui</h1>
 
----
-
 <h2 align="center">
   Machine Learning Researcher
   <br>
