@@ -6,8 +6,6 @@
   Senior Lecturer, School of Data & Sciences, BRAC University
 </h2>
 
----
-
 🔭 &nbsp; I’m currently working on **Multi-Modal Deep Learning, Biomedical Imaging, Signal & Image Processing, Bioinformatics, and Computational Social Science.**
 
 👨‍💻 &nbsp; Explore my full portfolio and all my projects on my **[Personal Website](https://saiful185.github.io/)**.
