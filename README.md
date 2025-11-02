@@ -1,6 +1,16 @@
-### Hi 👋, I'm Md. Saiful Bari Siddiqui
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saiful185&label=Profile%20views&color=0e75b6&style=flat" alt="saiful185" />
+</p>
 
-I'm a Senior Lecturer at BRAC University and an active Machine Learning Researcher. My work lies at the intersection of Deep Learning, Signal Processing, and Computer Vision, with a primary focus on ML-based solutions for Healthcare and Diagnostics.
+<h1 align="center">Hi 👋, I'm Saiful Bari Siddiqui</h1>
+
+---
+
+<p align="center">
+  Machine Learning Researcher
+  <br>
+  Senior Lecturer, School of Data & Sciences, BRAC University
+</p>
 
 - - -
 
@@ -38,12 +48,4 @@ I'm a Senior Lecturer at BRAC University and an active Machine Learning Research
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-</p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saiful185&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Saiful's GitHub Stats" />
 </p>
