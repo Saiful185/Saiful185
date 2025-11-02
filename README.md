@@ -5,11 +5,6 @@
   <br>
   Senior Lecturer, School of Data & Sciences, BRAC University
 </h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saiful185&label=Profile%20views&color=0e75b6&style=flat" alt="saiful185" />
-</p>
-
 ---
 
 🔭 &nbsp; I’m currently working on **Multi-Modal Deep Learning, Biomedical Imaging, Signal & Image Processing, Bioinformatics, and Computational Social Science.**
