@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saiful Bari Siddiqui</h1>
+<h1 align="center">Hi 👋, I'm Md. Saiful Bari Siddiqui</h1>
 
 <h2 align="center">
   Machine Learning Researcher
@@ -12,7 +12,7 @@
 
 ---
 
-🔭 &nbsp; I’m currently working on **Multi-Modal Deep Learning, Biomedical Imaging, Signal & Image Processing, and Computational Social Science.**
+🔭 &nbsp; I’m currently working on **Multi-Modal Deep Learning, Biomedical Imaging, Signal & Image Processing, Bioinformatics, and Computational Social Science.**
 
 👨‍💻 &nbsp; Explore my full portfolio and all my projects on my **[Personal Website](https://saiful185.github.io/)**.
 
